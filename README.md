@@ -1,7 +1,8 @@
 ##<Development>
+ 
 ## code reusability(Object Orieted Programming)
 
-##<Problem:>
+<Problem:>
 The code is of a WaterSort puzzle game.
 The aim of the puzzle is to sort the coloured water in the bottles until the colours in the bottles are of the same colour.
 
